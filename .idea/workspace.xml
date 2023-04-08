@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f6f6656-5745-454f-a741-6d74b3db34c2" name="Changes" comment="Pratik daire alan çevre bitti" />
+    <list default="true" id="7f6f6656-5745-454f-a741-6d74b3db34c2" name="Changes" comment="Pratik daire alan çevre bitti">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,6 +99,8 @@
       <workItem from="1680697174924" duration="3352000" />
       <workItem from="1680704281192" duration="214000" />
       <workItem from="1680732571121" duration="2529000" />
+      <workItem from="1680945817990" duration="1148000" />
+      <workItem from="1680950142408" duration="73000" />
     </task>
     <task id="LOCAL-00001" summary="Pratik taksimetre">
       <created>1680733931459</created>
